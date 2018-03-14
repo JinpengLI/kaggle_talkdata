@@ -2,7 +2,7 @@
 """
 Created on Fri Mar  9 10:49:59 2018
 
-@author: jl237561
+@author: jinpeng
 """
 
 import argparse
